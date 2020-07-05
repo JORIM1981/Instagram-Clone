@@ -139,7 +139,6 @@ LOGIN_REDIRECT_URL = 'index'
 
 LOGOUT_REDIRECT_URL = 'login'
 
-# Configure Django App for Heroku.
-django_heroku.settings(locals())
+
 
 
